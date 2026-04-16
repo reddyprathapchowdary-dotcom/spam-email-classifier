@@ -53,3 +53,5 @@ Congratulations! You won ₹10,000. Click now!
 ## Model Performance
 Accuracy: ~98%
 Dataset: SMS Spam Collection
+
+https://huggingface.co/spaces/ReddyPrathap96/spam_email_classifier
